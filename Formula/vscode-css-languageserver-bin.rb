@@ -2,7 +2,7 @@
 
 require 'language/node'
 
-class CssLanguageServerBin < Formula
+class VscodeCssLanguageserverBin < Formula
   version '1.4.0'
   desc 'Binary version published on npm of vscode-css-languageserver extracted from VSCode tree'
   homepage 'https://github.com/vscode-langservers/vscode-css-languageserver-bin#readme'

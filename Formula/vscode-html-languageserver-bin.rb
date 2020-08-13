@@ -2,7 +2,7 @@
 
 require 'language/node'
 
-class HtmlLanguageServerBin < Formula
+class VscodeHtmlLanguageserverBin < Formula
   version '1.4.0'
   desc 'Binary version published on npm of vscode-html-languageserver extracted from VSCode tree'
   homepage 'https://github.com/vscode-langservers/vscode-html-languageserver-bin#readme'
