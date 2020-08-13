@@ -7,7 +7,7 @@ class VscodeCssLanguageserverBin < Formula
   desc 'Binary version published on npm of vscode-css-languageserver extracted from VSCode tree'
   homepage 'https://github.com/vscode-langservers/vscode-css-languageserver-bin#readme'
   url 'https://registry.npmjs.org/vscode-css-languageserver-bin/-/vscode-css-languageserver-bin-1.4.0.tgz'
-  sha256 'd9ebf3c4c9df0dcab96abc4abc6f79daf6408508'
+  sha256 'daa006f74a6baa265e743811bf224003048144c805bc3a9dd3f8175d4815bced'
 
   plist_options startup: true
 
