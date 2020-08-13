@@ -3,10 +3,10 @@
 require 'language/node'
 
 class VscodeJsonLanguageserverBin < Formula
-  version '1.4.0'
+  version '1.0.1'
   desc 'Binary version published on npm of vscode-json-languageserver extracted from VSCode tree'
   homepage 'https://github.com/vscode-langservers/vscode-json-languageserver-bin#readme'
-  url 'https://registry.npmjs.org/vscode-json-languageserver-bin/-/vscode-json-languageserver-bin-1.4.0.tgz'
+  url 'https://registry.npmjs.org/vscode-json-languageserver-bin/-/vscode-json-languageserver-bin-1.0.1.tgz'
   sha256 '262a770d25ce82d48548b0a423c8114ead6a30d327d09ad24b3950c1386e99ef'
 
   plist_options startup: true
